@@ -1,6 +1,10 @@
 ### Hey, I'm Samkit 👋
 
-I'm a freshman at **UT Austin** studying an integrated Computer Science + Neuroscience degree. I work where ML meets medicine, finance, and robotics: AI software engineering intern at **SIVOTEC** (rare-disease diagnosis), and co-founder of **Q-Beam Technologies**, a pre-seed medtech startup building a brain-tumor ablation planner.
+I am a freshman at UT Austin, majoring in an integrated degree spanning Computer Science and Neuroscience. Through dual enrollment at Florida Atlantic University since my freshman year of high school, I've accumulated 100+ college credits and had the chance to take college-level courses (Data Structures, Calculus 1-3, Matrix Theory) and work in undergraduate research along the way.
+
+I especially enjoy working at the intersection of computer science and other disciplines like medicine, finance, and robotics. That work has let me present at national conferences and first-author multiple publications before starting college. I'm just as drawn to entrepreneurial ventures, where I get to apply what I learn in classes and research labs to a real problem. A couple of my past ventures led to winning statewide competitions and earning access to startup incubators and accelerators.
+
+At UT Austin, I hope to feed that curiosity by joining entrepreneurial and technical clubs and learning from my professors. And when I get some free time, I'm usually outside playing golf or pickleball, or going for a walk somewhere in beautiful Austin.
 
 [Portfolio](https://samkitbothra.org) · [LinkedIn](https://www.linkedin.com/in/samkit-bothra/)
 
