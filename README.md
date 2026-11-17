@@ -30,17 +30,9 @@ At UT Austin, I hope to feed that curiosity by joining entrepreneurial and techn
 
 ---
 
-### GitHub stats
+### Highlights
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samkitb&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkitb&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-### Recent highlights
-
-- 🏥 Improved HPO-term normalization by **21%** with a fine-tuned biomedical encoder, shipped to production at SIVOTEC
-- 🏆 1st place, university biotech hackathon · 1st place, FAU pitch competition · top 3 startup statewide in Florida
-- 📄 First-author publication on wearable motion sensors for neurodegenerative disease
+- 🏥 Building AI for rare-disease diagnosis in production, and co-founding a medtech startup for brain-tumor surgery planning
+- 📈 Quant and ML projects spanning options pricing, market making, and forecasting competitions
+- 🏆 Multiple hackathon, pitch, and research-symposium wins, including a top 3 startup in Florida
+- 📄 Published researcher in biomechanics, wearable sensors, and AI attitudes
