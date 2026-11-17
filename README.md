@@ -12,9 +12,26 @@ I'm a freshman at **UT Austin** studying an integrated Computer Science + Neuros
 |---|---|---|
 | **[Probability Cup](https://github.com/samkitb/probability-cup)** | Forecasting engine for the Jump Trading Probability Cup. Prices ~15 markets per match from live odds and reverse-engineered the scoring rule (R² = 0.995). Top 11% of ~4,000 forecasters. | Python · NumPy · SciPy |
 | **[Binary Options Market Maker](https://github.com/samkitb/binary-options-market-maker)** | Exact closed-form pricer, parameter estimator and quoting strategy for binary options on correlated underlyings, with its own exchange simulator. Built for Akuna's 2026 Quant Challenge. | Python |
-| **[Implied Volatility Surface Modeler](https://github.com/samkitb/ImpliedVolatilitySurfaceModeler)** | Pulls live options data, inverts Black-Scholes, and trains an arbitrage-constrained neural net to model the 3D vol surface in real time. | Python · PyTorch · Plotly Dash |
+| **[Implied Volatility Surface Modeler](https://github.com/samkitb/ImpliedVolatilitySurfaceModeler)** | Pulls live options data, inverts Black-Scholes, and trains an arbitrage-constrained neural net to model the 3D vol surface in real time. [Live](https://volatility-surface-calibrator.onrender.com/) | Python · PyTorch · Plotly Dash |
 | **[Options Market-Maker Simulator](https://github.com/samkitb/MarketMaker)** | Simulates quoting, informed vs. uninformed flow, delta hedging, and P&L attribution, to show where a liquidity provider's money actually comes from. | Python · NumPy |
-| **[Research Connect AI](https://github.com/samkitb/ResearchConnectAI)** | Helps students find professors for research: GPT search, OpenAlex publication data, and AI-drafted outreach emails. [Live](https://researchconnectai.com) | React · TypeScript · Flask · OpenAI API |
+| **[Research Connect AI](https://github.com/samkitb/ResearchConnectAI)** | Helps students find professors for research: GPT search, OpenAlex publication data, and AI-drafted outreach emails. | React · TypeScript · Flask · OpenAI API |
+
+---
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,ts,react,flask,mysql,swift,js,html,css,git,vercel&theme=dark" alt="tech stack" />
+</p>
+
+---
+
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samkitb&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkitb&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
