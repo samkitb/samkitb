@@ -1,6 +1,6 @@
 ### Hey, I'm Samkit 👋
 
-I am a freshman at UT Austin, majoring in an integrated degree spanning Computer Science and Neuroscience. Through dual enrollment at Florida Atlantic University since my freshman year of high school, I've accumulated 100+ college credits and had the chance to take college-level courses (Data Structures, Calculus 1-3, Matrix Theory) and work in undergraduate research along the way.
+I am a student at UT Austin, majoring in an integrated degree spanning Computer Science and Neuroscience. Through dual enrollment at Florida Atlantic University since my freshman year of high school, I've accumulated 100+ college credits and had the chance to take college-level courses (Data Structures, Calculus 1-3, Matrix Theory) and work in undergraduate research along the way.
 
 I especially enjoy working at the intersection of computer science and other disciplines like medicine, finance, and robotics. That work has let me present at national conferences and first-author multiple publications before starting college. I'm just as drawn to entrepreneurial ventures, where I get to apply what I learn in classes and research labs to a real problem. A couple of my past ventures led to winning statewide competitions and earning access to startup incubators and accelerators.
 
